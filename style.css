@@ -88,7 +88,7 @@ span{
 @media only screen and (min-width:360px) and (max-width:1282px)  {
     .container{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         flex-wrap: wrap;
         align-content: center;
         justify-content: center;
